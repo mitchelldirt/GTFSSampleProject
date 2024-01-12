@@ -1,0 +1,105 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T01,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T02,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T03,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T04,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T05,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T06,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T07,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T08,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T09,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T10,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T11,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T12,,0,,,1,1
+Rt1,mtwtf,1_North_Mall_Area_Weekday_T13,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T01,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T02,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T03,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T04,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T05,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T06,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T07,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T08,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T09,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T10,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T11,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T12,,0,,,1,1
+Rt2,mtwtf,2_Butternut_/136th_Weekday_T13,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T01,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T02,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T03,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T04,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T05,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T06,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T07,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T08,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T09,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T10,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T11,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T12,,0,,,1,1
+Rt3,mtwtf,3_Southshore_Area_Weekday_T13,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T01,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T02,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T03,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T04,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T05,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T06,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T07,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T08,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T09,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T10,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T11,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T12,,0,,,1,1
+Rt4,mtwtf,4_Waverly_/120th_Weekday_T13,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T01,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T02,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T03,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T04,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T05,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T06,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T07,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T08,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T09,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T10,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T11,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T12,,0,,,1,1
+Rt5,mtwtf,5_Washington_/S. River_Weekday_T13,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T01,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T02,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T03,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T04,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T05,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T06,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T07,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T08,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T09,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T10,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T11,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T12,,0,,,1,1
+Rt6,mtwtf,6_Holland_Heights_Weekday_T13,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T01,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T02,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T03,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T04,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T05,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T06,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T07,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T08,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T09,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T10,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T11,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T12,,0,,,1,1
+Rt7,mtwtf,7_Lincoln_/Southtown_Weekday_T13,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T01,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T02,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T03,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T04,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T05,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T06,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T07,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T08,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T09,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T10,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T11,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T12,,0,,,1,1
+Rt8,mtwtf,8_Zeeland_Weekday_T13,,0,,,1,1

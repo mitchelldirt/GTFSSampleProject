@@ -1,0 +1,9 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+Rt1,MAX,,North Mall Area,,3,https://catchamax.org/wp-content/uploads/2021/04/Route1-Site.pdf,AB5650,FFFFFF,1,1,1
+Rt2,MAX,,Butternut/136th,,3,https://catchamax.org/wp-content/uploads/2021/06/Route2-Site.pdf,00659B,FFFFFF,2,1,1
+Rt3,MAX,,Southshore Area,,3,https://catchamax.org/wp-content/uploads/2021/06/Route3-Site.pdf,10A2DC,FFFFFF,3,1,1
+Rt4,MAX,,Waverly/120th,,3,https://catchamax.org/wp-content/uploads/2021/06/Route4-Site.pdf,4A9D3B,FFFFFF,4,1,1
+Rt5,MAX,,Washington/S.River,,3,https://catchamax.org/wp-content/uploads/2021/06/Route5-Site.pdf,FAAE17,FFFFFF,5,1,1
+Rt6,MAX,,Holland Heights,,3,https://catchamax.org/wp-content/uploads/2021/06/Route6-Site.pdf,EF3E2A,FFFFFF,6,1,1
+Rt7,MAX,,Lincoln/Southtown,,3,https://catchamax.org/wp-content/uploads/2021/06/Route7-Site.pdf,AF1F8E,FFFFFF,7,1,1
+Rt8,MAX,,Zeeland,,3,https://catchamax.org/wp-content/uploads/2022/02/RouteSite8.pdf,C18F71,FFFFFF,8,1,1

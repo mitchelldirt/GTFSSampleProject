@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Macatawa Area Express Transportation Authority,https://www.catchamax.org,en,20230101,20231231,20230329,c.veldhoff@catchamax.org,https://catchamax.org/contact-us/

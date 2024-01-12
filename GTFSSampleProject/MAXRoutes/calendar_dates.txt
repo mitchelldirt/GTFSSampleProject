@@ -1,0 +1,9 @@
+﻿service_id,date,exception_type
+mtwtf,20231123,2
+mtwtf,20231225,2
+mtwtf,20240101,2
+mtwtf,20240527,2
+mtwtf,20240704,2
+mtwtf,20240902,2
+mtwtf,20241128,2
+mtwtf,20241225,2
