@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTFSSampleProject", "GTFSSampleProject\GTFSSampleProject.csproj", "{5157235F-A327-4784-8926-7BCF352412C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingalRServer", "SingalRServer\SingalRServer.csproj", "{70F612BF-14CC-4303-BF78-A29EB1BD44AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5157235F-A327-4784-8926-7BCF352412C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5157235F-A327-4784-8926-7BCF352412C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5157235F-A327-4784-8926-7BCF352412C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F612BF-14CC-4303-BF78-A29EB1BD44AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F612BF-14CC-4303-BF78-A29EB1BD44AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F612BF-14CC-4303-BF78-A29EB1BD44AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F612BF-14CC-4303-BF78-A29EB1BD44AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
